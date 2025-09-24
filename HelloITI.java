@@ -9,5 +9,9 @@ public class HelloITI {
    }
 
  ////////////helow
+    public static void main(String[] args) {
+        printHelloITI();
+        printHelloGit();
+    }
     
 }
