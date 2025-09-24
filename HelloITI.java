@@ -4,7 +4,9 @@ public class HelloITI {
     }
 
 
-
+    public static void printHelloGit() {
+       System.out.println("Hello from Git!");
+   }
 
 
     
